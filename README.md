@@ -1,6 +1,4 @@
-# mos
-Multi-Programming OS
-
+# Multi-programming Operating System
 This directory includes three phases of a MOS.
 There mainly 3 components of the MOS:
   - CPU
